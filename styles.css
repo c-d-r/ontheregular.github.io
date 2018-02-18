@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family:"Comic Sans MS";
+    font-family: helvetica
+}    
+body{
+background-image:url(https://media.giphy.com/media/3o6ozxasMHDoJ2OP7i/giphy.gif);
+background-position: center;
+background-size: cover;
+}
